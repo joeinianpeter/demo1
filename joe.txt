@@ -1,0 +1,8 @@
+About Whatsapp functionality
+1) texting feature
+
+2) sharing photos feature
+
+3) sharing contacts feature
+
+4) sharing text document
