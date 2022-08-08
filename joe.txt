@@ -7,6 +7,8 @@ About Whatsapp functionality
 
 4) sharing text document
 
-5) vidoe calling feature
+5) video calling feature
 
 6) audio calling feature
+
+7) status feature
